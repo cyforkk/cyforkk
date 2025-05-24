@@ -6,6 +6,8 @@
 爱听说唱gang gang
 
 u konw m3
+
+对了，这是我的个人成长博客（还没完善好）:https://cyforkk.top/
 <!--
 **cyforkk/cyforkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
